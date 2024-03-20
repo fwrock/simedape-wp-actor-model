@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35c91613-c6a8-4d3e-9660-00ef61589f0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f7275c54d9f6e23b71f850822cf32bf1b11a8ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e2fb01dcf26fce9071640ac7358963a9e9db68e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d8bfcd3a332b8e99059a68fbc5ff7941610da83" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74b95601c3a6d9d565cd312fac64094ec0f9d847" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8da08d77e3248e6f8e30994297f33cdca42f6255" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae1eb8d4b5c5674bf0e9fed563a5205e3d1b8e59" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c52f437cbf47e18ad3ef766ce5ee02e09c97fcce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf67368109dea464c2e43eaf3d489b0149d47557" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc60008c65374dc4065d0cbf518371e405cf39fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e73229b883738a2502b66216d61679380e89fce6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e78e22889bb1388be7141f8b0238789832e0bde2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e8d811fe0aa12989a9d5ad8cc37b89cc92a1f3a7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6b2e2ebc257a12f058e68d6a55e8c3bf875c238" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8a1a975f439f0094863f870f75752013e1af7f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/f/0f7275c54d9f6e23b71f850822cf32bf1b11a8ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/e/1e2fb01dcf26fce9071640ac7358963a9e9db68e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/d/6d8bfcd3a332b8e99059a68fbc5ff7941610da83" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/4/74b95601c3a6d9d565cd312fac64094ec0f9d847" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/d/8da08d77e3248e6f8e30994297f33cdca42f6255" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/e/ae1eb8d4b5c5674bf0e9fed563a5205e3d1b8e59" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/5/c52f437cbf47e18ad3ef766ce5ee02e09c97fcce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/f/cf67368109dea464c2e43eaf3d489b0149d47557" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/c/dc60008c65374dc4065d0cbf518371e405cf39fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/7/e73229b883738a2502b66216d61679380e89fce6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/7/e78e22889bb1388be7141f8b0238789832e0bde2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/8/e8d811fe0aa12989a9d5ad8cc37b89cc92a1f3a7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/6/f6b2e2ebc257a12f058e68d6a55e8c3bf875c238" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/8/f8a1a975f439f0094863f870f75752013e1af7f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/SimEDaPE.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/actor/CheckSystemActor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/actor/ClusterActor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/actor/ReportWriterActor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/actor/TimeSeriesActor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/dto/ClusteringDTO.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/dto/DynamicTimeWarpingResultDTO.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/dto/SimulationPointDTO.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/dto/WarpingPathDTO.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/exception/InvalidMessageException.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/message/CheckQueueMessage.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/message/RequestCalcMessage.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/message/ResponseCalcMessage.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/message/StartMessage.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/message/WarpingPathMessage.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/metric/DynamicTimeWarping.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/util/ClusteringLoader.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/util/Generators.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/util/StopWatch.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/util/TimeSeriesLoader.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/simedape/wp/util/WarpingPathWriter.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="simedape-wp" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="simedape-wp" type="f1a62948:ProjectNode" />
+                <item name="simedape-wp" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dpxcgrZGbByWzBlZz283JiZZCy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Generators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimEDaPE.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sam/workspace/study/udemy-akka-essentials&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.SimEDaPE">
+    <configuration name="Generators" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.simedape.wp.util.Generators" />
+      <module name="simedape-wp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.simedape.wp.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimEDaPE" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.simedape.wp.SimEDaPE" />
+      <module name="simedape-wp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.simedape.wp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimEDaPE" />
+        <item itemvalue="Application.Generators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35c91613-c6a8-4d3e-9660-00ef61589f0d" name="Changes" comment="" />
+      <created>1710718904405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710718904405</updated>
+    </task>
+    <servers />
+  </component>
+</project>
